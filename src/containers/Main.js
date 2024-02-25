@@ -58,8 +58,8 @@ const Main = () => {
             <WorkExperience />
             <Projects />
             <StartupProject />
-            <Achievement />
             <Blogs />
+            <Achievement />
             <Talks />
             <Twitter />
             <Podcast />

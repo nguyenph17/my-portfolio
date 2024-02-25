@@ -35,7 +35,7 @@
 }
 
 .greeting-text {
-  font-size: 70px;
+  font-size: 50px;
   line-height: 1.1;
   color: $textColor !important;
 }
@@ -105,7 +105,7 @@
     text-align: center;
   }
   .greeting-main {
-    display: block;
+    display: flex;
   }
   .greeting-image-div {
     height: 256px;
