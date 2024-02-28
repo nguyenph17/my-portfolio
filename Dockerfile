@@ -30,4 +30,4 @@ EXPOSE 3000
 CMD ["npm", "start"]
 
 # docker build -t myportfolio:latest .
-# docker run --rm -t -p 3000:3000 myportfolio:latest
+# docker run --rm -t -p 8004:8004 myportfolio:latest
