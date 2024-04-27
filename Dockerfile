@@ -18,7 +18,7 @@ RUN apk update && apk add --no-cache git
 RUN npm install
 
 # Audit fix npm packages
-RUN npm audit fix
+# RUN npm audit fix
 
 # Bundle app source
 COPY . /app
