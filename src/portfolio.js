@@ -183,7 +183,7 @@ const workExperiences = {
       role: "AI/ML Engineer",
       company: "FPT Software",
       companylogo: require("./assets/images/fpt_software.png"),
-      date: "Feb 2022 – Present",
+      date: "Dec 2021 – Present",
       desc: "Participate in various AI application development projects such as OCR, Object Detection, ReID, Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
       descBullets: [
         "Research, and modify model architecture to meet the requirements of the problem.",
@@ -195,7 +195,7 @@ const workExperiences = {
       role: "APAC Regional WMS Developer",
       company: "Geodis Asia Pacific",
       companylogo: require("./assets/images/geodis.png"),
-      date: "Oct 2017 – Jan 2022",
+      date: "Oct 2017 – Nov 2021",
       desc: "Integrated the WMS system with other platforms such as Magento, Shopify, Cegid and the shipping provider using Restful API, Webhook, SOAP, and EDI",
       descBullets: [
         "Optimized SQL queries and stored procedures to improve system performance.",
