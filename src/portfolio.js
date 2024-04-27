@@ -331,6 +331,12 @@ const blogSection = {
   blogs: [
     {
       url: "",
+      title: "AI Assistants (LLM projects)",
+      description:
+        "Developing AI Assistant applications that can assist users in searching for information and answering their questions using RAG. We use both closed-LLM (ChatGPT, ClaudeAI) and open-LLMs (Llama 2, 3) to build the AI Assistants."
+    },
+    {
+      url: "",
       title: "Learning Material Recommendation System",
       description:
         "Developing a platform powered by artificial intelligence that aims to support students in their learning journey through the use of Reinforcement Learning techniques."
