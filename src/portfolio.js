@@ -23,7 +23,7 @@ const greeting = {
   username: "Nguyen Pham",
   title: "Hi!, I'm Nguyen Pham",
   subTitle: emoji(
-    "I am a passionate Artificial Intelligence enthusiast with hands-on experience in developing AI applications, particularly in the fields of Computer Vision and Natural Language Processing."
+    "I am an Artificial Intelligence engineer with hands-on experience in developing AI applications, particularly in the fields of Computer Vision and Natural Language Processing."
   ),
   resumeLink:
     "",//"https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -133,7 +133,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Information Technology, Vietnam National University, HCMC",
-      logo: require("./assets/images/Logo_UIT_updated.jpg"),
+      logo: require("./assets/images/uit.png"),
       subHeader: "Bachelor of Engineering in Software Engineering",
       duration: "September 2014 - Jan 2019",
       desc: ""
@@ -183,8 +183,8 @@ const workExperiences = {
       role: "AI/ML Engineer",
       company: "FPT Software",
       companylogo: require("./assets/images/fpt_software.png"),
-      date: "Dec 2021 – Present",
-      desc: "Participate in various AI application development projects such as OCR, Object Detection, ReID, Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
+      date: "Sep 2022 – Present",
+      desc: "Participate in various AI application development projects such as Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
       descBullets: [
         "Research, and modify model architecture to meet the requirements of the problem.",
         "Apply pre-processed data techniques, data augmentation, image processing, and feature engineering for fine-tuning AI/ML models.",
@@ -192,10 +192,22 @@ const workExperiences = {
       ]
     },
     {
+      role: "AI/ML Engineer",
+      company: "Freelance",
+      companylogo: require("./assets/images/freelance-logo.png"),
+      date: "Nov 2021 – Sep 2022",
+      desc: "Developing AI applications using computer vision such as OCR and AI Camera",
+      descBullets: [
+        "Fine-tuning and optimizing AI models to meet the requirements of the problem.",
+        "Implementing algorithms, pre-processed data techniques, data augmentation.",
+        "Deploying AI models to production for over 200 retail stores."
+      ]
+    },
+    {
       role: "APAC Regional WMS Developer",
       company: "Geodis Asia Pacific",
       companylogo: require("./assets/images/geodis.png"),
-      date: "Oct 2017 – Nov 2021",
+      date: "Jun 2018 – Jan 2022",
       desc: "Integrated the WMS system with other platforms such as Magento, Shopify, Cegid and the shipping provider using Restful API, Webhook, SOAP, and EDI",
       descBullets: [
         "Optimized SQL queries and stored procedures to improve system performance.",
@@ -221,7 +233,7 @@ const bigProjects = {
   subtitle: "These are several open-source projects that I have worked on.",
   projects: [
     {
-      image: require("./assets/images/video_translator.jpg"),
+      image: require("./assets/images/video_translator.png"),
       projectName: " English-Vietnamese Video Translation",
       projectDesc: "An powerful AI application that can translate English video to Vietnamese video",
       footerLink: [
@@ -331,9 +343,9 @@ const blogSection = {
   blogs: [
     {
       url: "",
-      title: "AI Assistants (LLM projects)",
+      title: "Chatbot for Public Administration",
       description:
-        "Developing AI Assistant applications that can assist users in searching for information and answering their questions using RAG. We use both closed-LLM and open-LLMs."
+        "Developing Chatbot applications that can assist users in searching for information and answering their questions using RAG. We use both closed-LLM and open-LLMs."
     },
     {
       url: "",
@@ -343,14 +355,14 @@ const blogSection = {
     },
     {
       url: "",
-      title: "Intelligent Classroom Activity Monitoring and Recognition - Video and Audio",
-      description:
-        "Building an AI system to detect, track, and recognize the actions of teachers in the classroom from CCTV footage."
+      title: "Generative AI: Japanese Handwriting Synthesis",
+      description: "Building a Generative AI application capable of generating unlimited images of Japanese handwriting for training the OCR model."
     },
     {
       url: "",
-      title: "Generative AI: Japanese Handwriting Synthesis",
-      description: "Building a Generative AI application capable of generating unlimited images of Japanese handwriting for training the OCR model."
+      title: "AI Camera for Retail Store",
+      description:
+        "Building an AI camera system that can detect and track customers in a retail store, analyze their behavior, and provide insights to store owners."
     },
     {
       url: "",
