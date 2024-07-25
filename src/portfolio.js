@@ -191,18 +191,18 @@ const workExperiences = {
         "Perform model evaluation, analyzing errors, and using that analysis to improve the accuracy of the model."
       ]
     },
-    {
-      role: "AI/ML Engineer",
-      company: "Freelance",
-      companylogo: require("./assets/images/freelance-logo.png"),
-      date: "Nov 2021 – Sep 2022",
-      desc: "Developing AI applications using computer vision such as OCR and AI Camera",
-      descBullets: [
-        "Fine-tuning and optimizing AI models to meet the requirements of the problem.",
-        "Implementing algorithms, pre-processed data techniques, data augmentation.",
-        "Deploying AI models to production for over 200 retail stores."
-      ]
-    },
+    // {
+    //   role: "AI/ML Engineer",
+    //   company: "Freelance",
+    //   companylogo: require("./assets/images/freelance-logo.png"),
+    //   date: "Nov 2021 – Sep 2022",
+    //   desc: "Developing AI applications using computer vision such as OCR and AI Camera",
+    //   descBullets: [
+    //     "Fine-tuning and optimizing AI models to meet the requirements of the problem.",
+    //     "Implementing algorithms, pre-processed data techniques, data augmentation.",
+    //     "Deploying AI models to production for over 200 retail stores."
+    //   ]
+    // },
     {
       role: "APAC Regional WMS Developer",
       company: "Geodis Asia Pacific",
@@ -358,12 +358,12 @@ const blogSection = {
       title: "Generative AI: Japanese Handwriting Synthesis",
       description: "Building a Generative AI application capable of generating unlimited images of Japanese handwriting for training the OCR model."
     },
-    {
-      url: "",
-      title: "AI Camera for Retail Store",
-      description:
-        "Building an AI camera system that can detect and track customers in a retail store, analyze their behavior, and provide insights to store owners."
-    },
+    // {
+    //   url: "",
+    //   title: "AI Camera for Retail Store",
+    //   description:
+    //     "Building an AI camera system that can detect and track customers in a retail store, analyze their behavior, and provide insights to store owners."
+    // },
     {
       url: "",
       title: "Technical Drawing OCR",
