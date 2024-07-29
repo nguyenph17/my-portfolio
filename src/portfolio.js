@@ -179,18 +179,18 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
-    {
-      role: "AI/ML Engineer",
-      company: "FPT Software",
-      companylogo: require("./assets/images/fpt_software.png"),
-      date: "Sep 2022 – Present",
-      desc: "Participate in various AI application development projects such as Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
-      descBullets: [
-        "Research, and modify model architecture to meet the requirements of the problem.",
-        "Apply pre-processed data techniques, data augmentation, image processing, and feature engineering for fine-tuning AI/ML models.",
-        "Perform model evaluation, analyzing errors, and using that analysis to improve the accuracy of the model."
-      ]
-    },
+    // {
+    //   role: "AI/ML Engineer",
+    //   company: "FPT Software",
+    //   companylogo: require("./assets/images/fpt_software.png"),
+    //   date: "Sep 2022 – Present",
+    //   desc: "Participate in various AI application development projects such as Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
+    //   descBullets: [
+    //     "Research, and modify model architecture to meet the requirements of the problem.",
+    //     "Apply pre-processed data techniques, data augmentation, image processing, and feature engineering for fine-tuning AI/ML models.",
+    //     "Perform model evaluation, analyzing errors, and using that analysis to improve the accuracy of the model."
+    //   ]
+    // },
     // {
     //   role: "AI/ML Engineer",
     //   company: "Freelance",
