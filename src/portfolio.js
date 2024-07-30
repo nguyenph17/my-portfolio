@@ -178,44 +178,45 @@ const techStack = {
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
-  experience: [
-    // {
-    //   role: "AI/ML Engineer",
-    //   company: "FPT Software",
-    //   companylogo: require("./assets/images/fpt_software.png"),
-    //   date: "Sep 2022 – Present",
-    //   desc: "Participate in various AI application development projects such as Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
-    //   descBullets: [
-    //     "Research, and modify model architecture to meet the requirements of the problem.",
-    //     "Apply pre-processed data techniques, data augmentation, image processing, and feature engineering for fine-tuning AI/ML models.",
-    //     "Perform model evaluation, analyzing errors, and using that analysis to improve the accuracy of the model."
-    //   ]
-    // },
-    // {
-    //   role: "AI/ML Engineer",
-    //   company: "Freelance",
-    //   companylogo: require("./assets/images/freelance-logo.png"),
-    //   date: "Nov 2021 – Sep 2022",
-    //   desc: "Developing AI applications using computer vision such as OCR and AI Camera",
-    //   descBullets: [
-    //     "Fine-tuning and optimizing AI models to meet the requirements of the problem.",
-    //     "Implementing algorithms, pre-processed data techniques, data augmentation.",
-    //     "Deploying AI models to production for over 200 retail stores."
-    //   ]
-    // },
-    {
-      role: "APAC Regional WMS Developer",
-      company: "Geodis Asia Pacific",
-      companylogo: require("./assets/images/geodis.png"),
-      date: "Jun 2018 – Jan 2022",
-      desc: "Integrated the WMS system with other platforms such as Magento, Shopify, Cegid and the shipping provider using Restful API, Webhook, SOAP, and EDI",
-      descBullets: [
-        "Optimized SQL queries and stored procedures to improve system performance.",
-        "Designed and developed scalable WMS modules to optimize warehouse operations.",
-        "Contributed to the development and maintenance of a custom WMS solution."
-      ]
-    }
-  ]
+  experience: []
+  // experience: [
+  //   // {
+  //   //   role: "AI/ML Engineer",
+  //   //   company: "FPT Software",
+  //   //   companylogo: require("./assets/images/fpt_software.png"),
+  //   //   date: "Sep 2022 – Present",
+  //   //   desc: "Participate in various AI application development projects such as Generative AI, Recommendation Systems, Reinforcement Learning, NLP and more.",
+  //   //   descBullets: [
+  //   //     "Research, and modify model architecture to meet the requirements of the problem.",
+  //   //     "Apply pre-processed data techniques, data augmentation, image processing, and feature engineering for fine-tuning AI/ML models.",
+  //   //     "Perform model evaluation, analyzing errors, and using that analysis to improve the accuracy of the model."
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   role: "AI/ML Engineer",
+  //   //   company: "Freelance",
+  //   //   companylogo: require("./assets/images/freelance-logo.png"),
+  //   //   date: "Nov 2021 – Sep 2022",
+  //   //   desc: "Developing AI applications using computer vision such as OCR and AI Camera",
+  //   //   descBullets: [
+  //   //     "Fine-tuning and optimizing AI models to meet the requirements of the problem.",
+  //   //     "Implementing algorithms, pre-processed data techniques, data augmentation.",
+  //   //     "Deploying AI models to production for over 200 retail stores."
+  //   //   ]
+  //   // },
+  //   {
+  //     role: "APAC Regional WMS Developer",
+  //     company: "Geodis Asia Pacific",
+  //     companylogo: require("./assets/images/geodis.png"),
+  //     date: "Jun 2018 – Jan 2022",
+  //     desc: "Integrated the WMS system with other platforms such as Magento, Shopify, Cegid and the shipping provider using Restful API, Webhook, SOAP, and EDI",
+  //     descBullets: [
+  //       "Optimized SQL queries and stored procedures to improve system performance.",
+  //       "Designed and developed scalable WMS modules to optimize warehouse operations.",
+  //       "Contributed to the development and maintenance of a custom WMS solution."
+  //     ]
+  //   }
+  // ]
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
