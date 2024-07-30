@@ -179,6 +179,7 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: []
+  };
   // experience: [
   //   // {
   //   //   role: "AI/ML Engineer",
@@ -217,7 +218,7 @@ const workExperiences = {
   //     ]
   //   }
   // ]
-};
+
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -423,22 +424,22 @@ const twitterDetails = {
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
-// export {
-//   illustration,
-//   greeting,
-//   socialMediaLinks,
-//   splashScreen,
-//   skillsSection,
-//   educationInfo,
-//   techStack,
-//   workExperiences,
-//   openSource,
-//   bigProjects,
-//   achievementSection,
-//   blogSection,
-//   talkSection,
-//   podcastSection,
-//   contactInfo,
-//   twitterDetails,
-//   isHireable
-// };
+export {
+  illustration,
+  greeting,
+  socialMediaLinks,
+  splashScreen,
+  skillsSection,
+  educationInfo,
+  techStack,
+  workExperiences,
+  openSource,
+  bigProjects,
+  achievementSection,
+  blogSection,
+  talkSection,
+  podcastSection,
+  contactInfo,
+  twitterDetails,
+  isHireable
+};
