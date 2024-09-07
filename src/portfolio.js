@@ -34,8 +34,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/nguyenph17",
-  linkedin: "https://www.linkedin.com/in/nguyen-pham-730972174/",
-  gmail: "nguyenph.work@gmail.com",
+  linkedin: "https://www.linkedin.com/in/phamhoainguyen/",
+  gmail: "dev.nguyenph@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
